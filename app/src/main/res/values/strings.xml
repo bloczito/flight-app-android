@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlightApp</string>
+
+    <string name="search_flights_tab_label">Loty</string>
+    <string name="saved_flights_tab_label">Zapisane</string>
+    <string name="settings_flights_tab_label">Ustawienia</string>
+
+    <string name="search_flights_headline">Wyszukaj lot</string>
+    <string name="search_flights_button">Szukaj</string>
+    <string name="search_flights_from_label">Z miasta</string>
+    <string name="search_flights_to_label">Do miasta</string>
+    <string name="search_flights_select_input_placeholder">Wyszukaj miasto...</string>
+    <string name="search_flights_details_from_label">Z: </string>
+</resources>
